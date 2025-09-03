@@ -3,7 +3,7 @@
 It integrates **Firebase authentication, subscription management, real-time payment alerts, and overlays** for live streams.  
 
 The system consists of:  
-- 📱 **React Native Mobile App** – donation listener & subscription validation  
+- 📱 **React Native Mobile App** – alert listener & subscription validation  
 - 🌐 **React.js Web App** – admin panel for managing users & subscriptions  
 - ⚡ **Socket.IO Backend** – real-time communication for alerts & overlays  
 
