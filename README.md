@@ -15,7 +15,7 @@ The system consists of:
 - Google login with Firebase  
 - Start/Stop listening for alerts  
 - Real-time alert push to overlays  
-- Subscription validation  
+- Subscription validation 
 - Push notification support (RevoPush)  
 
 ### 🌐 Web App (React.js)  
@@ -38,4 +38,9 @@ The system consists of:
 - **Mobile:** React Native CLI, Firebase Auth, RevoPush  
 - **Backend:** Node.js, Express.js, Socket.IO  
 - **Database:** Firestore  
-- **Hosting:** Vercel (Web), Render (Backend)  
+- **Hosting:** Vercel (Web), Render (Backend)
+
+- REACT NATIVE APP SCREENSHOT
+
+<img width="250" height="541" alt="Home" src="https://github.com/user-attachments/assets/70986aa2-df00-4e7d-ba38-0f973199aab1" />
+<img width="250" height="541" alt="History" src="https://github.com/user-attachments/assets/03160834-ad1a-411e-80c8-88dab203e331" />
