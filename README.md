@@ -13,7 +13,7 @@ The system consists of:
 
 ### 📱 Mobile App (React Native)  
 - Google login with Firebase  
-- Start/Stop listening for donations  
+- Start/Stop listening for alerts  
 - Real-time alert push to overlays  
 - Subscription validation  
 - Push notification support (RevoPush)  
