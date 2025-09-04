@@ -40,7 +40,9 @@ The system consists of:
 - **Database:** Firestore  
 - **Hosting:** Vercel (Web), Render (Backend)
 
-- REACT NATIVE APP SCREENSHOT
+---
+
+### REACT NATIVE APP SCREENSHOT
 
 <img width="250" height="541" alt="Home" src="https://github.com/user-attachments/assets/70986aa2-df00-4e7d-ba38-0f973199aab1" />
 <img width="250" height="541" alt="History" src="https://github.com/user-attachments/assets/03160834-ad1a-411e-80c8-88dab203e331" />
