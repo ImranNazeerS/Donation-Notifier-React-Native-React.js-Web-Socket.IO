@@ -1,7 +1,11 @@
-<div align="center">
-<img src="https://img.shields.io/badge/Donation_Notifier-Platform_Showcase-6C3AF5?style=for-the-badge" alt="Donation Notifier Platform" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Donation_Notifier-Platform_Showcase-6C3AF5?style=for-the-badge" />
+</p>
+
 # 🎙️ Donation Notifier Platform
+
 ### Real-time donation alerts & live stream overlays for content creators
+<p align='centre'>
 [![React Native](https://img.shields.io/badge/React_Native-Mobile_App-61DAFB?style=flat-square&logo=react)](https://reactnative.dev)
 [![React](https://img.shields.io/badge/React_+_Vite-Web_Platform-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time_Server-010101?style=flat-square&logo=socket.io)](https://socket.io)
@@ -10,7 +14,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
 **A 3-service full-stack platform built over 2 years — solo.**
 [🌐 Live Platform](https://YOUR_LIVE_URL) · [📬 Contact Me](mailto:YOUR_EMAIL) · [💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-</div>
+</p>
 ---
 > [!NOTE]
 > **This is a portfolio showcase repository.** It contains no source code — only documentation, architecture diagrams, and screenshots.
